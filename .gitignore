@@ -1,0 +1,9 @@
+*.zip
+*.tar
+*.tar.gz
+*.pt
+*.onnx
+*.cache
+__pycache__/
+.DS_Store
+Thumbs.db
